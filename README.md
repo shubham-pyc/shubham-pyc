@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Fullstack Engineer/ Deep Learning Engineer</h3>
+<h3 align="center">Fullstack Engineer/ Data Engineer/ Deep Learning Engineer</h3>
 
 - 🔭 I’m currently working on **AI based pathline prediction**
 
